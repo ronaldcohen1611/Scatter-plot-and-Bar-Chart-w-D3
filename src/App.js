@@ -32,7 +32,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="header">
-          <span className="header-content">Asssignment 4: Ronald Cohen</span>
+          <span className="header-content">Scatter Plot And Bar Chart: Ronald Cohen</span>
         </div>
         <div className="child1">
           <Child1 data1={this.state.data} />
